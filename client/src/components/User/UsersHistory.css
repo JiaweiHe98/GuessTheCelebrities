@@ -1,0 +1,15 @@
+.usersHistory {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 2rem auto;
+  padding: 1rem;
+  width: 80%;
+  max-width: 40rem;
+}
+
+.usersHistory table {
+  width: 100%;
+}
+
+.usersHistory td {
+  text-align: center;
+}

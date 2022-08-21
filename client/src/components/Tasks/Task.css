@@ -1,0 +1,31 @@
+.task {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 3rem auto 2rem auto;
+  padding: 1rem;
+  width: 90%;
+  max-width: 40rem;
+}
+
+.taskContent {
+  height: 15rem;
+  margin-bottom: 1rem;
+}
+
+.taskContent img {
+  display: block;
+  height: inherit;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.taskSelections {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.taskSelections button {
+  margin: 0.5rem 0;
+  width: 80%;
+}

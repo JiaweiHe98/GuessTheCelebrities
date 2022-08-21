@@ -1,0 +1,28 @@
+.startForm {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 3rem auto 2rem auto;
+  padding: 1rem;
+  width: 80%;
+  max-width: 40rem;
+}
+
+.startForm label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.6rem;
+}
+
+.startForm input {
+  display: block;
+  width: 100%;
+  font: inherit;
+  border: 1px solid rgb(190, 190, 190);
+  padding: 0.15rem;
+  margin-bottom: 0.5rem;
+  border-radius: 3px;
+}
+
+.startForm input:focus {
+  outline: none;
+  border-color: #240274;
+}

@@ -1,0 +1,18 @@
+.playerResult {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 3rem auto 2rem auto;
+  padding: 1rem;
+  width: 80%;
+  max-width: 40rem;
+}
+
+.playerResult h1 {
+  text-align: center;
+  width: 100%;
+}
+
+.action {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 0.5rem;
+}
